@@ -1,6 +1,5 @@
 # nginx-crash-course
 
-This is a project accompanying Nginx Crash Course
 
 Les commandes utilisées dans ce projet:
 
